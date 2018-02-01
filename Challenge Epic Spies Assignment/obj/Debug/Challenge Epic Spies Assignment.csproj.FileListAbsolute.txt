@@ -1,0 +1,9 @@
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\bin\Challenge Epic Spies Assignment.dll.config
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\bin\Challenge Epic Spies Assignment.dll
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\bin\Challenge Epic Spies Assignment.pdb
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\obj\Debug\Challenge Epic Spies Assignment.csprojResolveAssemblyReference.cache
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\obj\Debug\Challenge Epic Spies Assignment.csproj.CoreCompileInputs.cache
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\obj\Debug\Challenge Epic Spies Assignment.dll
+C:\Users\clary\myProjects\TechAcademy\C#\DevU practice\Challenge Epic Spies Assignment\Challenge Epic Spies Assignment\obj\Debug\Challenge Epic Spies Assignment.pdb
